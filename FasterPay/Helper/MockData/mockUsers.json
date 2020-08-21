@@ -1,0 +1,37 @@
+{
+    "users":[
+        {
+            "mail":"Moh@essam.com",
+            "password":"Moh@essam.123",
+            "firstName":"Mohammed",
+            "lastName":"Essam",
+            "balance":"200",
+            "currency":"USD"
+        },
+        {
+            "mail":"Moh@essam.net",
+            "password":"Moh@essam.123",
+            "firstName":"Mohammed",
+            "lastName":"Essam",
+            "balance":"1000",
+            "currency":"USD"
+        },
+        {
+            "mail":"Moh@essam.eg",
+            "password":"Moh@essam.123",
+            "firstName":"Mohammed",
+            "lastName":"Essam",
+            "balance":"500",
+            "currency":"USD"
+        },
+        {
+            "mail":"Moh@essam.test",
+            "password":"Moh@essam.123",
+            "firstName":"Mohammed",
+            "lastName":"Essam",
+            "balance":"100",
+            "currency":"USD"
+        }
+    ]
+}
+
