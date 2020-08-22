@@ -44,6 +44,26 @@ QR sample Model in JSON for example:
 }
 
 -------------------------------------------------------------------------------------------------------------------
+Test Users:
+
+"mail":"Moh@essam.com",
+"password":"Moh@essam.123",
+
+
+"mail":"Moh@essam.net",
+"password":"Moh@essam.123",
+
+
+"mail":"Moh@essam.eg",
+"password":"Moh@essam.123",
+
+
+"mail":"Moh@essam.test",
+"password":"Moh@essam.123",
+
+
+-------------------------------------------------------------------------------------------------------------------
+
 
 Note: Balance and Currency are random for every new user.
 
