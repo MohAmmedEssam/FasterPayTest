@@ -35,6 +35,8 @@
 		DEA9758124EE6B3F0031DDB9 /* PaymentVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA9758024EE6B3F0031DDB9 /* PaymentVC.swift */; };
 		DEA9758324EE7E300031DDB9 /* PaymentM.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA9758224EE7E300031DDB9 /* PaymentM.swift */; };
 		DEA9758524EE8EFA0031DDB9 /* UIViewControl+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA9758424EE8EFA0031DDB9 /* UIViewControl+Ext.swift */; };
+		DEB4B04624F09D7A00BCED2A /* LoginTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEB4B04524F09D7A00BCED2A /* LoginTest.swift */; };
+		DEB4B04824F0A02B00BCED2A /* RegisterTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEB4B04724F0A02B00BCED2A /* RegisterTest.swift */; };
 		DEC17E0D24ED274A0045C2E5 /* RegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEC17E0C24ED274A0045C2E5 /* RegisterVC.swift */; };
 		DEC17E1124ED3B470045C2E5 /* Fetchable.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEC17E1024ED3B470045C2E5 /* Fetchable.swift */; };
 		DEC17E1624ED4C2E0045C2E5 /* CodableFuncs.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEC17E1524ED4C2E0045C2E5 /* CodableFuncs.swift */; };
@@ -101,6 +103,8 @@
 		DEA9758024EE6B3F0031DDB9 /* PaymentVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentVC.swift; sourceTree = "<group>"; };
 		DEA9758224EE7E300031DDB9 /* PaymentM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentM.swift; sourceTree = "<group>"; };
 		DEA9758424EE8EFA0031DDB9 /* UIViewControl+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewControl+Ext.swift"; sourceTree = "<group>"; };
+		DEB4B04524F09D7A00BCED2A /* LoginTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginTest.swift; sourceTree = "<group>"; };
+		DEB4B04724F0A02B00BCED2A /* RegisterTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterTest.swift; sourceTree = "<group>"; };
 		DEC17E0C24ED274A0045C2E5 /* RegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
 		DEC17E1024ED3B470045C2E5 /* Fetchable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fetchable.swift; sourceTree = "<group>"; };
 		DEC17E1524ED4C2E0045C2E5 /* CodableFuncs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableFuncs.swift; sourceTree = "<group>"; };
@@ -176,6 +180,8 @@
 			children = (
 				DE26354524EBEE8D00054DCF /* FasterPayTests.swift */,
 				DE26354724EBEE8D00054DCF /* Info.plist */,
+				DEB4B04524F09D7A00BCED2A /* LoginTest.swift */,
+				DEB4B04724F0A02B00BCED2A /* RegisterTest.swift */,
 			);
 			path = FasterPayTests;
 			sourceTree = "<group>";
@@ -573,7 +579,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DEB4B04824F0A02B00BCED2A /* RegisterTest.swift in Sources */,
 				DE26354624EBEE8D00054DCF /* FasterPayTests.swift in Sources */,
+				DEB4B04624F09D7A00BCED2A /* LoginTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
